@@ -1,13 +1,11 @@
-# 3kh0.github.io
+# Urmom.com
 
-![3kh0.github.io](https://socialify.git.ci/3kh0/3kh0.github.io/image?description=1&descriptionEditable=This%20is%203kh0.github.io%20v3%20the%20better%20unblocked%20games%20website!&font=Source%20Code%20Pro&forks=1&issues=1&language=1&logo=https%3A%2F%2F3kh0.github.io%2Ffavicon.ico&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark)
 
-Welcome to 3kh0.github.io, your best option for unblocked games on the internet. This is the GitHub repo which is used to host the website. If you want to use the games on here on your website, please message me on discord and we can talk! `3kh0_#1791`
+Welcome to Urmom.com, your best option for unblocked games on the internet. This is the GitHub repo which is used to host the website. If you want to use the games on here on your website, Go ahead.
 
 > **Note**
 > **If you do fork this repo, please give the orginal repo a star! It helps out alot and only 30% of people who fork give me a star.**
 
-[![Vulnerability](https://github.com/3kh0/3kh0.github.io/actions/workflows/codeql-analysis.yml/badge.svg?branch=main)](https://github.com/3kh0/3kh0.github.io/actions/workflows/codeql-analysis.yml) [![pages-build-deployment](https://github.com/3kh0/3kh0.github.io/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)](https://github.com/3kh0/3kh0.github.io/actions/workflows/pages/pages-build-deployment)
 
 ## Features
 
@@ -24,7 +22,7 @@ Welcome to 3kh0.github.io, your best option for unblocked games on the internet.
 
 You can access this project using the link below
 
-[https://3kh0.github.io](https://3kh0.github.io)
+[https://urmom-com.netlify.app
 
 
 ## Host the website
@@ -37,72 +35,20 @@ Below are some of the options you can use to deploy your own copy of the site. *
 [![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://render.com/deploy?repo=https://github.com/3kh0/3kh0.github.io)
 [![Deploy to Cyclic](https://binbashbanana.github.io/deploy-buttons/buttons/remade/cyclic.svg)](https://app.cyclic.sh/api/app/deploy/3kh0/3kh0.github.io)
 
-> **Note**
-> If you have any problems please open a issue!
-
-> **Note**
-> The option to deploy with Replit has been removed due to the fact that this repo exceedes the limit for size on replit. Even if you have the hacker plan, it is still too large. 
-
-## Contributers
-
-Thank you to all of these amazing people for helping work on this project!
-
-![Contrib](https://contrib.rocks/image?repo=3kh0/3kh0.github.io#)
-
-And the people who worked on v2!
-
-![Contrib](https://contrib.rocks/image?repo=3kh0/website-v2#)
-
-And the people who worked on v1!
-
-![Contrib](https://contrib.rocks/image?repo=3kh0/website-v1#)
-
 ## Contributing
 
-Contributions are always welcome!
+Contributions are not welcome
 
-See [`contributing.md`](https://github.com/3kh0/3kh0.github.io/blob/main/.github/CONTRIBUTING.md) for ways to get started.
-
-Please adhere to this project's [`code of conduct`](https://github.com/3kh0/3kh0.github.io/blob/main/.github/CODE_OF_CONDUCT.md).
-
-
-## Badges
-
-![GitHub issues](https://img.shields.io/github/issues/3kh0/3kh0.github.io?logo=github&style=flat-square) 
-![GitHub pull requests](https://img.shields.io/github/issues-pr/3kh0/3kh0.github.io?label=Pull%20requests&logo=github&style=flat-square) 
-![GitHub](https://img.shields.io/github/license/3kh0/3kh0.github.io?label=Licence&logo=github&style=flat-square) 
-![GitHub forks](https://img.shields.io/github/forks/3kh0/3kh0.github.io?label=Forks&logo=github&style=flat-square) 
-![GitHub Repo stars](https://img.shields.io/github/stars/3kh0/3kh0.github.io?color=yellow&label=Stars&logo=github&style=flat-square) 
-![GitHub repo size](https://img.shields.io/github/repo-size/3kh0/3kh0.github.io?label=Repo%20size&logo=github&style=flat-square) 
-
-## Run Locally
-
-First clone the project using command line
-
-```bash
-git clone https://github.com/3kh0/3kh0.github.io.git
-```
-
-or if you have GitHub CLI
-
-```bash
-gh repo clone 3kh0/3kh0.github.io
-```
-
-Since this project does not require a backend, for the best experience I suggest using [XAMPP](https://www.apachefriends.org/), cloning the repo into the Apache Server directory at `C:\xampp\htdocs` (for windows), setting the port to something like 8080, opening up a browser and going to [`localhost:8080`](http://localhost:8080)
-
-> **Warning**
+> **Warning*
 > Please make your you know what you are doing, you could delete your entire drive if you are not careful!
 
 ## License
 
 
-© Echo, 2022. Unauthorized use and/or duplication of this material without permission from Echo is strictly prohibited. Excerpts and links may be used, provided that clear credit is given with a link to the original content.
+© CJ, 2022. Unauthorized use and/or duplication of this material without permission from CJ is strictly prohibited. Excerpts and links may be used, provided that clear credit is given with a link to the original content.
 
 This code is licensed under the **Apache-2.0 License**. I ask you that you do not copy the code in the repo what-so-ever; I take time to build this and I do not need someone just yoinking all of my games for ones site. If you have any questions please open a issue!
 
-> **Note**
-> You can view the full license [here](https://github.com/3kh0/3kh0.github.io/blob/main/LICENSE)!
 
 
 ## Previous versions
